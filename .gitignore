@@ -1,0 +1,11 @@
+# raw captures and scratch output
+*.png
+!docs/shots/*.png
+__pycache__/
+*.pyc
+.acl-recovery/
+
+# reference binary / bulky dumps
+tools/moggy-trainer.bin
+native/*.bin
+native/codgod.log

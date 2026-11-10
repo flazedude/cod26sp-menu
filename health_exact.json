@@ -1,0 +1,8 @@
+{
+  "note": "Two player-state slots observed in the campaign pause state. Both are held at 150; the player is one of them.",
+  "value": 150,
+  "hits": [
+    150637159804,
+    150637163900
+  ]
+}
